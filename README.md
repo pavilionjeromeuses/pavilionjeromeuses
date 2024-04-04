@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [random stuff](https://linktr.ee/jeromespavilion)
 
-- 🤝 I’m looking for help with [random stuff](https://linktr.ee/jeromespavilion)
+- 🤝 I’m looking for help with [Cyberpunk Bible Translation](https://github.com/pavilionjeromeuses/biblecyberpunktranslation)
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/jeromespavilion](https://linktr.ee/jeromespavilion)
 
