@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/4e/18/68/4e186806e6c567166f644e47ee508b1f.gif)](https://github.com/pavilionjeromeuses)
 <h1 align="center">Hi 👋, I'm Jeromie</h1>
-<h3 align="center">A passionate random developer from PH</h3>
+<h3 align="center">A passionate random developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c4/95/14/c495143c99f68bd9e5c161882216e9d7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavilionjeromeuses&label=Profile%20views&color=0e75b6&style=flat" alt="pavilionjeromeuses" /> </p>
