@@ -32,8 +32,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeromespavilion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeromespavilion" height="30" width="40" /></a>
-<a href="https://fb.com/jeromepabillon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeromepabillon" height="30" width="40" /></a>
-<a href="https://instagram.com/jspphotographs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jspphotographs" height="30" width="40" /></a>
 <a href="https://www.behance.net/jeromespavilion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jeromespavilion" height="30" width="40" /></a>
 </p>
 
